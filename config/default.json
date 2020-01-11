@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://tmplx_vode:tmplx_vode@devconnector-fwdmn.mongodb.net/test?retryWrites=true&w=majority"
+}
